@@ -49,4 +49,4 @@ def mergesort(lst):
 
 
 if __name__ == "__main__":
-    print mergesort([322, 3224, 32228, 30, 3, 7, 4, 2, 1, 9, 4, 5])
+    print mergesort([3, 4, 8, 0, 6, 7, 4, 2, 1, 9, 4, 5])
